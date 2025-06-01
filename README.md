@@ -12,7 +12,9 @@ Mesmo sendo um projeto de estudo, foi feito com muito cuidado, atenção e um to
 - Imagens e design com paleta personalizada
 
 
-![image](https://github.com/user-attachments/assets/7736b2ab-80c3-4d62-9b3a-fe9a8e3483e0)
+<p align="center">
+  <img src="preview.gif" alt="Demonstração do Focadinha" />
+</p>
 
 ---
 
